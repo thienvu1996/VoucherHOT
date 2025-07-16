@@ -71,14 +71,13 @@ const vouchers = [
     title: "Ưu đãi The Coffee House",
     description: "Nhận voucher độc quyền từ The Coffee House. Áp dụng toàn quốc.",
     img: "assset/The_cooffe.jpg",
-    link: "https://promothecoffeeehouse.com.vn/?utm_source=accesstrade",
     registered: 542,
   },
   {
     title: "Ưu đãi Nhà thuốc FPT Long Châu",
     description: "Săn ưu đãi khi mua hàng tại hệ thống nhà thuốc FPT Long Châu.",
     img: "assset/FPT.png",
-    link: "https://nhathuoclongchau.com.vn",
+    link: "https://shorten.asia/4pkPqDc9",
     registered: 421,
   },
   {
