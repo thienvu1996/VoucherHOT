@@ -84,7 +84,7 @@ const vouchers = [
   {
     title: "Ưu đãi K'Phúc Sinh",
     description: "Mua cà phê, gia vị và thực phẩm hữu cơ chính hãng tại K'Phúc Sinh.",
-    img: "assset/Logo-Phúc-Sinh-Consumer-Nen-Xanh-K-COFFEE.jpg",
+    img: "assset/K.png",
     link: "https://shorten.asia/z9m2QhNr",
     registered: 198,
   },
